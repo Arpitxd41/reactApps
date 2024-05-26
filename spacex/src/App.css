@@ -1,0 +1,10 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.component1 {
+  background: linear-gradient(to bottom, #020107 0%, #201b46 50%, #020107 100%);
+}
+.component2 {
+  background: linear-gradient(to bottom, #020107 0%, #201b46 50%, #020107 100%);
+}
